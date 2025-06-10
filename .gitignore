@@ -1,1 +1,4 @@
 pnpm-lock.yaml
+classroom.yaml
+autograding yaml
+node_modules
